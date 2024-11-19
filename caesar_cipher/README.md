@@ -15,3 +15,4 @@ Run the script with the following arguments:
 Example:
 ```bash
 python encrypt.py plain.txt 8
+python decrypt.py encrypted.txt 8

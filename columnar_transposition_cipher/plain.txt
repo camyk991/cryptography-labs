@@ -1,0 +1,1 @@
+Kryptografia jest dziedzina nauki zajmujaca sie zabezpieczaniem informacji poprzez ich szyfrowanie, co umozliwia ochronę danych przed nieautoryzowanym dostepem.
