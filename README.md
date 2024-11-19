@@ -4,4 +4,4 @@ This repository contains a collection of scripts and assignments from cryptograp
 
 ## Contents
 - **Caesar Cipher**: Encrypting and decrypting text using a basic substitution cipher.
-- More to come as additional projects are added.
+- **Columnar Transposition Cipher**: Encrypting and decrypting text using columnar transposition cipher
