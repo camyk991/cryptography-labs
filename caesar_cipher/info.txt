@@ -1,0 +1,8 @@
+Author: Kamil Dyrek
+
+Caesar cipher, shift for encrypted text in encrypted.txt is 8
+
+plain.txt - text to encrypt
+encrypted.txt - text to decrypt
+
+First argument is filename, second is shif
